@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Python-3.12-black?style=flat&logo=python"/>
 
-<a href="https://discord.gg/r8xQ7K59Mt">
+<a href="https://meobypass.com/discord">
 <img src="https://img.shields.io/badge/Discord-Community-black?style=flat&logo=discord"/>
 </a>
 
@@ -41,7 +41,7 @@ Key goals:
 
 <p align="center">
 
-<a href="https://discord.gg/r8xQ7K59Mt">
+<a href="https://meobypass.com/discord">
 <img src="https://img.shields.io/badge/Join%20Community-Discord-black?style=for-the-badge&logo=discord"/>
 </a>
 
