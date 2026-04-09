@@ -10,9 +10,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/longndev/Meo-Bypass?style=flat&label=Stars&logo=github&color=black"/>
+<img src="https://img.shields.io/github/stars/longndev/Vantage-Bypass?style=flat&label=Stars&logo=github&color=black"/>
 
-<img src="https://img.shields.io/github/license/longndev/Meo-Bypass?style=flat&label=License&color=black"/>
+<img src="https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-black?style=flat"/>
 
 <img src="https://img.shields.io/badge/Python-3.12-black?style=flat&logo=python"/>
 
