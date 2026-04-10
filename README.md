@@ -125,11 +125,11 @@ https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
 
 ### 2. Download the Tool
 
-Download the latest loader:
+Download the [latest loader](https://raw.githubusercontent.com/longndev/Vantage-Bypass/refs/heads/main/vantage.bat)
 
-https://github.com/longndev/Vantage-Bypass/blob/main/vantage.bat
+Or https://github.com/longndev/Vantage-Bypass/blob/main/vantage.bat
 
-and **click** on it to run.
+And **click** on it to run.
 
 The application should now start successfully. Enjoy!
 
