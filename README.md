@@ -84,29 +84,11 @@ https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
 
 ### 2. Download the Tool
 
-Download the latest script:
+Download the latest loader:
 
-https://github.com/longndev/Vantage-Bypass/blob/main/vantage.py
+https://github.com/longndev/Vantage-Bypass/blob/main/vantage.bat
 
-Or clone the repository:
-
-```
-git clone https://github.com/longndev/Vantage-Bypass.git
-```
-
----
-
-### 3. Usage Guide
-
-1. Open the folder that contains the downloaded [**Vantage**](https://github.com/longndev/Vantage-Bypass/blob/main/vantage.py) files.
-2. Click on the address bar (location bar) of the folder and type **`cmd`**, then press **Enter** to open Command Prompt in that directory.
-3. In the Command Prompt window, run the following command:
-
-```
-python vantage.py
-```
-
-4. Press **Enter** to execute the program.
+and **click** on it to run
 
 The application should now start successfully. Enjoy!
 
