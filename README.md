@@ -35,6 +35,47 @@ Key goals:
 * Support for common Vietnamese shortlink ecosystems
 * Continuous updates through community feedback
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/longndev/Meo-Bypass/blob/main/meobypass.png?raw=true" width="450"/>
+    </td>
+    <td width="50%" align="left">
+      <h3>Powered by Meo Bypass</h3>
+      <p>
+        Fast and reliable Vietnamese shortlink bypass solution.<br/>
+        Optimized for speed, stability, and ease of use.
+        <a href="https://meobypass.com/discord">
+<img src="https://img.shields.io/badge/Join%20Community-Discord-black?style=for-the-badge&logo=discord"/>
+</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Sponsor
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/longndev/Meo-Bypass-Leaked-Resources/refs/heads/main/assets/bacon-but-pro.png" width="450"/>
+    </td>
+    <td width="50%" align="left">
+      <h3>Bacon But Pro</h3>
+      <p>
+        The team helped Meo Bypass, contributing to development and new bypass methods.<br/>
+        <a href="https://baconbypass.online/">
+<img src="https://img.shields.io/badge/Join%20Community-Discord-black?style=for-the-badge&logo=discord"/>
+</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Community
@@ -88,7 +129,7 @@ Download the latest loader:
 
 https://github.com/longndev/Vantage-Bypass/blob/main/vantage.bat
 
-and **click** on it to run
+and **click** on it to run.
 
 The application should now start successfully. Enjoy!
 
