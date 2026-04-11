@@ -125,9 +125,9 @@ https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
 
 ### 2. Download the Tool
 
-Download the [latest loader](https://cdn.jsdelivr.net/gh/longndev/Vantage-Bypass@main/vantage.bat)
+Download the [latest loader](https://github.com/longndev/Vantage-Bypass/blob/main/vantage.bat)
 
-Or https://cdn.jsdelivr.net/gh/longndev/Vantage-Bypass@main/vantage.bat
+Or https://github.com/longndev/Vantage-Bypass/blob/main/vantage.bat
 
 And **click** on it to run.
 
